@@ -1,8 +1,5 @@
 # AVISO LEGAL, LICENCIA DE USO Y DESCARGO TOTAL DE RESPONSABILIDAD
 
-**Última actualización:** [Fecha actual]
-**Propietario del repositorio:** [Tu Nombre o Nickname]
-
 ---
 
 ## 1. Reconocimiento de Propiedad Intelectual
