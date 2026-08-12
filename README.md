@@ -43,6 +43,9 @@
 
 - Descarga el archivo `.zip` desde este repositorio.
 - Usa cualquier gestor de archivos y **extrae** (descomprime) el contenido en una carpeta.
+  1. Descomprime el archivo: **Gen2Recomped.apk.zip** alli encontraras el apk del emulador 3D: Gen2Recomped.apk
+  2. NO EXTRAER O DESCOMPRIMIR EL ARCHIVO: **GRAFICOS 3D.zip** (el apk Gen2Recomped.apk lo reconoce en formato zip
+  3. Descomprime la carpeta **GAMEBOY - POKEMON - r0ms**
 </details>
 
 ### Paso 2: Activar "Orígenes desconocidos"
