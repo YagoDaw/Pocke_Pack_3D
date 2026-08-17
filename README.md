@@ -88,13 +88,13 @@
 ## 🎬 TUTORIAL EN VIDEO
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=TU_VIDEO_AQUI" target="_blank">
+  <a href="[https://www.youtube.com/watch?v=TU_VIDEO_AQUI](https://youtu.be/BYvCn5wgjP8?si=p2UCKXleVbhOZP9D)" target="_blank">
     <img src="https://img.shields.io/badge/▶️_VER_TUTORIAL_COMPLETO-CLICK_AQUÍ-red?style=for-the-badge&logo=youtube" alt="Video Tutorial">
   </a>
   <br><br>
   <i>(Reemplaza el enlace con la URL de tu video)</i>
   <br><br>
-  <img src="URL_DE_LA_IMAGEN_DEL_VIDEO" alt="Vista previa del video" width="600">
+  <img src="[URL_DE_LA_IMAGEN_DEL_VIDEO](https://youtu.be/BYvCn5wgjP8?si=p2UCKXleVbhOZP9D)" alt="Vista previa del video" width="600">
 </div>
 
 ---
