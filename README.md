@@ -88,15 +88,14 @@
 ## 🎬 TUTORIAL EN VIDEO
 
 <div align="center">
-  <a href="[https://www.youtube.com/watch?v=TU_VIDEO_AQUI](https://youtu.be/BYvCn5wgjP8?si=p2UCKXleVbhOZP9D)" target="_blank">
+  <a href="https://youtu.be/BYvCn5wgjP8" target="_blank">
     <img src="https://img.shields.io/badge/▶️_VER_TUTORIAL_COMPLETO-CLICK_AQUÍ-red?style=for-the-badge&logo=youtube" alt="Video Tutorial">
   </a>
   <br><br>
-  <i>(Reemplaza el enlace con la URL de tu video)</i>
-  <br><br>
-  <img src="[URL_DE_LA_IMAGEN_DEL_VIDEO](https://youtu.be/BYvCn5wgjP8?si=p2UCKXleVbhOZP9D)" alt="Vista previa del video" width="600">
+  <a href="https://youtu.be/BYvCn5wgjP8" target="_blank">
+    <img src="https://img.youtube.com/vi/BYvCn5wgjP8/hqdefault.jpg" alt="Vista previa del video" width="600">
+  </a>
 </div>
-
 ---
 
 ## 📸 CAPTURAS DEL PROCESO
@@ -105,12 +104,20 @@
 
 | Paso | Captura |
 | :---: | :--- |
-| 1. Extraer ZIP | `(pega tu imagen)` |
-| 2. Activar orígenes | `(pega tu imagen)` |
-| 3. Instalar APK | `(pega tu imagen)` |
-| 4. M* B*y cargando R*m | `(pega tu imagen)` |
-| 5. G*N2 cargando R*m | `(pega tu imagen)` |
-| 6. Juego en 3D | `(pega tu imagen)` |
+| 1. Extraer ZIP | `<img width="411" height="479" alt="image" src="https://github.com/user-attachments/assets/7eb9c8a6-69ba-4766-a7b0-aab435938f48" />
+` |
+| 2. Activar orígenes | `<img width="474" height="334" alt="image" src="https://github.com/user-attachments/assets/9bc16d7d-7c8b-44dd-84d2-3c8625550b0a" />
+` |
+| 3. Instalar APK | `<img width="768" height="432" alt="image" src="https://github.com/user-attachments/assets/7f94c6f4-25e6-44cc-a7f2-334da1a502b4" />
+` |
+| 4. M* B*y cargando R*m | `<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/58a9e05b-53b3-4e3e-be8b-d7ef5700e756" />
+` |
+| 5. Juego en 3D | `<img width="1900" height="1000" alt="image" src="https://github.com/user-attachments/assets/0a6f2965-8aec-4225-9d0a-0d8134015514" />
+` |
+| 5. Juego en 3D | `<img width="728" height="455" alt="image" src="https://github.com/user-attachments/assets/41b0c7b7-64f7-4ef7-a836-bbfeaa3b7b83" />
+` |
+| 5. Juego en 3D | `<img width="1440" height="1080" alt="image" src="https://github.com/user-attachments/assets/3c0a5380-e66c-4804-854a-6314e5be6d26" />
+` |
 
 ---
 
